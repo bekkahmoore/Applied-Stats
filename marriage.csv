@@ -1,0 +1,821 @@
+Name	State	Married ages 32-34 (pct)	Married ages 23-25 (pct)	HBCU?	Religious private?	Nonsectarian private?
+Alabama Agricultural & Mechanical University	AL	0.2352426	0.0506166	Yes	No	No
+Auburn University	AL	0.6909931	0.1712751	No	No	No
+Auburn University Montgomery	AL	0.5116341	0.1974812	No	No	No
+Faulkner University	AL	0.5339571	0.2454412	No	Yes	No
+Huntingdon College	AL	0.6176949	0.2054899	No	Yes	No
+Jacksonville State University	AL	0.5538985	0.1941183	No	No	No
+Samford University	AL	0.768573	0.2575492	No	Yes	No
+Spring Hill College	AL	0.6256407	0.1117964	No	Yes	No
+Tuskegee University	AL	0.3114597	0.0502892	Yes	No	Yes
+University Of Alabama	AL	0.6256666	0.145443	No	No	No
+University Of Alabama At Birmingham	AL	0.4945526	0.1842655	No	No	No
+University Of Alabama In Huntsville	AL	0.6123605	0.213912	No	No	No
+University Of Montevallo	AL	0.6096312	0.2011622	No	No	No
+University Of North Alabama	AL	0.6446565	0.2512487	No	No	No
+University Of South Alabama	AL	0.5606765	0.2014751	No	No	No
+University Of West Alabama	AL	0.5048901	0.1995489	No	No	No
+Arkansas State University	AR	0.6049687	0.2819743	No	No	No
+Arkansas Tech University	AR	0.6468657	0.3118117	No	No	No
+Henderson State University	AR	0.618687	0.2548254	No	No	No
+Southern Arkansas University	AR	0.5601666	0.2500361	No	No	No
+University Of Arkansas	AR	0.6518544	0.1766578	No	No	No
+University Of Arkansas At Pine Bluff	AR	0.1887668	0.0445694	Yes	No	No
+University Of Central Arkansas	AR	0.6170565	0.2141795	No	No	No
+Williams Baptist College	AR	0.695955	0.4259658	No	Yes	No
+Azusa Pacific University	CA	0.7180943	0.2151246	No	Yes	No
+Biola University	CA	0.7438161	0.2820836	No	Yes	No
+California Baptist University	CA	0.7232519	0.3106319	No	Yes	No
+California Lutheran University	CA	0.6701711	0.0994263	No	Yes	No
+California Maritime Academy	CA	0.5880961	0.0751442	No	No	No
+California Polytechnic State University	CA	0.6338139	0.067625	No	No	No
+California State Polytechnic University, Pomona	CA	0.5098484	0.0646054	No	No	No
+California State University - Sacramento	CA	0.5822177	0.1106093	No	No	No
+California State University, Bakersfield	CA	0.6149116	0.1724867	No	No	No
+California State University, Chico	CA	0.6043026	0.0721905	No	No	No
+California State University, Dominguez Hills	CA	0.3414705	0.0719913	No	No	No
+California State University, East Bay	CA	0.5336686	0.0749613	No	No	No
+California State University, Fresno	CA	0.5936967	0.126905	No	No	No
+California State University, Fullerton	CA	0.5361764	0.0788499	No	No	No
+California State University, Long Beach	CA	0.5151485	0.0579112	No	No	No
+California State University, Los Angeles	CA	0.3982525	0.0606874	No	No	No
+California State University, Monterey Bay	CA	0.5045303	0.0735167	No	No	No
+California State University, Northridge	CA	0.4614739	0.062897	No	No	No
+California State University, San Bernardino	CA	0.5383984	0.1393737	No	No	No
+California State University, San Marcos	CA	0.6132225	0.1189095	No	No	No
+California State University, Stanislaus	CA	0.6405376	0.1660178	No	No	No
+Chapman University	CA	0.56177	0.0412463	No	Yes	No
+Claremont Mckenna College	CA	0.5764403	0.0092722	No	No	Yes
+Concordia University of Irvine, CA	CA	0.6513752	0.1450296	No	Yes	No
+Humboldt State University	CA	0.4944736	0.059638	No	No	No
+La Sierra University	CA	0.5607111	0.1058784	No	Yes	No
+Loyola Marymount University	CA	0.5104877	0.0326774	No	Yes	No
+Master's College & Seminary	CA	0.7737731	0.3797224	No	Yes	No
+Mills College	CA	0.4813905	0.0583948	No	No	Yes
+Mount St. Mary's College	CA	0.4680365	0.0919586	No	Yes	No
+Occidental College	CA	0.4751226	0.032577	No	No	Yes
+Pepperdine University	CA	0.5872226	0.1098006	No	Yes	No
+Pitzer College	CA	0.4755207	0.0206649	No	No	Yes
+Point Loma Nazarene University	CA	0.7312508	0.2302468	No	Yes	No
+San Diego State University	CA	0.5531461	0.0762329	No	No	No
+San Francisco State University	CA	0.4395278	0.0379731	No	No	No
+San Jose State University	CA	0.5088365	0.0489767	No	No	No
+Santa Clara University	CA	0.6085275	0.0339003	No	Yes	No
+Scripps College	CA	0.5423724	0.0422795	No	No	Yes
+Sonoma State University	CA	0.5604309	0.0615196	No	No	No
+Stanford University	CA	0.5462704	0.0309321	No	No	Yes
+University Of California, Berkeley	CA	0.4997438	0.0314668	No	No	No
+University Of California, Davis	CA	0.5640351	0.0460604	No	No	No
+University Of California, Irvine	CA	0.5039033	0.0376894	No	No	No
+University Of California, Los Angeles	CA	0.5075165	0.0351714	No	No	No
+University Of California, Riverside	CA	0.5139486	0.0535855	No	No	No
+University Of California, San Diego	CA	0.5412707	0.0392868	No	No	No
+University Of California, Santa Barbara	CA	0.5438646	0.0350098	No	No	No
+University Of California, Santa Cruz	CA	0.4474582	0.0251671	No	No	No
+University Of La Verne	CA	0.5193224	0.1091711	No	No	Yes
+University Of Redlands	CA	0.560998	0.0607421	No	No	Yes
+University Of San Francisco	CA	0.4835823	0.0331632	No	Yes	No
+University Of Southern California	CA	0.5006546	0.0266982	No	No	Yes
+University Of The Pacific	CA	0.5976198	0.0649163	No	No	Yes
+Vanguard University Of Southern California	CA	0.712441	0.2299938	No	Yes	No
+Whittier College	CA	0.4798756	0.0321837	No	No	Yes
+Woodbury University	CA	0.4582094	0.0645387	No	No	Yes
+Adams State University	CO	0.5663903	0.2079447	No	No	No
+Colorado College	CO	0.5584553	0.0153253	No	No	Yes
+Colorado Mesa University	CO	0.6074131	0.2021317	No	No	No
+Colorado School Of Mines	CO	0.6933038	0.1331674	No	No	No
+Colorado State University	CO	0.6302845	0.1174256	No	No	No
+Fort Lewis College	CO	0.4899628	0.0894682	No	No	No
+Metropolitan State University Of Denver	CO	0.5115599	0.1262772	No	No	No
+Regis University	CO	0.5880028	0.1437263	No	Yes	No
+University Of Denver	CO	0.5634452	0.0648123	No	No	Yes
+University Of Northern Colorado	CO	0.6399192	0.1698857	No	No	No
+Western State Colorado University	CO	0.5705746	0.1071171	No	No	No
+Central Connecticut State University	CT	0.528322	0.0554408	No	No	No
+Connecticut College	CT	0.5778766	0.0102842	No	No	Yes
+Eastern Connecticut State University	CT	0.5455412	0.0559442	No	No	No
+Fairfield University	CT	0.597567	0.0187061	No	Yes	No
+Quinnipiac University	CT	0.6239626	0.0255611	No	No	Yes
+Southern Connecticut State University	CT	0.4828745	0.0458572	No	No	No
+University Of Connecticut	CT	0.5931672	0.0396447	No	No	No
+University Of Hartford	CT	0.5052005	0.0388297	No	No	Yes
+University Of New Haven	CT	0.5208606	0.0442534	No	No	Yes
+University Of Saint Joseph	CT	0.5385866	0.1278	No	Yes	No
+Wesleyan University	CT	0.5018296	0.0148572	No	No	Yes
+Yale University	CT	0.5512947	0.0245126	No	No	Yes
+American University	DC	0.5206245	0.0362521	No	Yes	No
+Catholic University Of America	DC	0.5928974	0.0494585	No	Yes	No
+George Washington University	DC	0.5441355	0.0297485	No	No	Yes
+Georgetown University	DC	0.5555724	0.0277255	No	Yes	No
+Howard University	DC	0.2758554	0.0315198	Yes	No	Yes
+University Of Delaware	DE	0.627617	0.0492262	No	No	No
+Barry University	FL	0.4296413	0.0623042	No	Yes	No
+Embry-Riddle Aeronautical University	FL	0.6325257	0.2007539	No	No	Yes
+Florida Agricultural & Mechanical University	FL	0.2765434	0.0403006	Yes	No	No
+Florida Atlantic University	FL	0.4749724	0.084626	No	No	No
+Florida Gulf Coast University	FL	0.5649542	0.1113028	No	No	No
+Florida Institute Of Technology	FL	0.6092345	0.1347071	No	No	Yes
+Florida Southern College	FL	0.6138635	0.1639609	No	Yes	No
+Florida State University	FL	0.5693552	0.0881066	No	No	No
+Nova Southeastern University	FL	0.4963827	0.1032709	No	No	Yes
+Rollins College	FL	0.5381853	0.0580597	No	No	Yes
+Saint Leo University	FL	0.5099186	0.2019681	No	Yes	No
+Saint Thomas University	FL	0.3950365	0.1050889	No	Yes	No
+Stetson University	FL	0.5882407	0.119432	No	No	Yes
+University Of Central Florida	FL	0.5663179	0.0977308	No	No	No
+University Of Florida	FL	0.6065894	0.0817862	No	No	No
+University Of Miami	FL	0.4863849	0.0426478	No	No	Yes
+University Of North Florida	FL	0.5967124	0.1359794	No	No	No
+University Of South Florida	FL	0.5566259	0.1249767	No	No	No
+University Of Tampa	FL	0.5044017	0.0626072	No	No	Yes
+University Of West Florida	FL	0.578755	0.1933983	No	No	No
+Albany State University	GA	0.2117666	0.0548062	Yes	No	No
+Armstrong Atlantic State University	GA	0.5393265	0.1812536	No	No	No
+Brenau University	GA	0.6019784	0.2193332	No	No	Yes
+Clark Atlanta University	GA	0.1955472	0.0238794	Yes	Yes	No
+Clayton State University	GA	0.5073456	0.1215032	No	No	No
+Columbus State University	GA	0.5138991	0.177395	No	No	No
+Covenant College	GA	0.7459019	0.3586086	No	Yes	No
+Emmanuel College of Franklin Springs, GA	GA	0.6394506	0.2871788	No	Yes	No
+Emory University	GA	0.5822544	0.0337861	No	Yes	No
+Fort Valley State University	GA	0.2140021	0.0462512	Yes	No	No
+Georgia College & State University	GA	0.6473374	0.1646562	No	No	No
+Georgia Institute Of Technology	GA	0.6350585	0.0940553	No	No	No
+Georgia Southern University	GA	0.5440175	0.1321751	No	No	No
+Georgia Southwestern State University	GA	0.5865489	0.1684727	No	No	No
+Georgia State University	GA	0.4701314	0.0893738	No	No	No
+Kennesaw State University	GA	0.615786	0.1681726	No	No	No
+Lagrange College	GA	0.6537429	0.1863562	No	Yes	No
+Mercer University	GA	0.5976478	0.1262035	No	Yes	No
+Piedmont College	GA	0.6373059	0.254714	No	Yes	No
+Shorter University	GA	0.6643376	0.2513745	No	Yes	No
+Spelman College	GA	0.3247566	0.0403674	Yes	No	Yes
+University Of Georgia	GA	0.660478	0.1126524	No	No	No
+University Of West Georgia	GA	0.5654106	0.1819804	No	No	No
+Valdosta State University	GA	0.5981607	0.1409448	No	No	No
+Chaminade University Of Honolulu	HI	0.5079612	0.1464038	No	Yes	No
+Hawaii Pacific University	HI	0.5111068	0.1624855	No	No	Yes
+Buena Vista University	IA	0.7111104	0.2182267	No	Yes	No
+Central College	IA	0.7537663	0.2293407	No	Yes	No
+Dordt College	IA	0.8167683	0.4380754	No	Yes	No
+Drake University	IA	0.6674481	0.117261	No	No	Yes
+Grand View University	IA	0.6536839	0.2224335	No	Yes	No
+Grinnell College	IA	0.5237597	0.0400172	No	No	Yes
+Iowa State University Of Science & Technology	IA	0.7029698	0.1702393	No	No	No
+Loras College	IA	0.6944714	0.1326565	No	Yes	No
+Luther College	IA	0.6973073	0.1480468	No	Yes	No
+Morningside College	IA	0.6540146	0.2184735	No	Yes	No
+Northwestern College of Orange City, IA	IA	0.7786727	0.3937154	No	Yes	No
+Simpson College	IA	0.7513597	0.1751569	No	Yes	No
+University Of Iowa	IA	0.6516165	0.0862724	No	No	No
+University Of Northern Iowa	IA	0.7343145	0.1988617	No	No	No
+Upper Iowa University	IA	0.5504487	0.192426	No	No	Yes
+William Penn University	IA	0.5453846	0.1737996	No	Yes	No
+Boise State University	ID	0.6238592	0.2136384	No	No	No
+Brigham Young University-Idaho	ID	0.8473998	0.5668848	No	Yes	No
+University Of Idaho	ID	0.643137	0.1779683	No	No	No
+Augustana College of Rock Island, IL	IL	0.709665	0.0818714	No	Yes	No
+Aurora University	IL	0.5563664	0.1430004	No	No	Yes
+Bradley University	IL	0.6690806	0.104837	No	No	Yes
+Chicago State University	IL	0.1735144	0.0445672	No	No	No
+Depaul University	IL	0.5200655	0.0538379	No	Yes	No
+Dominican University	IL	0.5575417	0.0797967	No	Yes	No
+Eastern Illinois University	IL	0.6528626	0.1114338	No	No	No
+Illinois College	IL	0.6923383	0.1370414	No	Yes	No
+Illinois Institute Of Technology	IL	0.6005901	0.0874553	No	No	Yes
+Illinois State University	IL	0.675413	0.094538	No	No	No
+Illinois Wesleyan University	IL	0.6854747	0.0703876	No	Yes	No
+Knox College	IL	0.5720305	0.0547561	No	No	Yes
+Lewis University	IL	0.5615113	0.1062426	No	Yes	No
+Loyola University Chicago	IL	0.5424096	0.0561615	No	Yes	No
+MacMurray College	IL	0.5876194	0.192967	No	Yes	No
+McKendree University	IL	0.7135804	0.18935	No	Yes	No
+Millikin University	IL	0.6498713	0.1341172	No	Yes	No
+Monmouth College	IL	0.676942	0.110376	No	Yes	No
+North Central College	IL	0.6164272	0.1245695	No	Yes	No
+North Park University	IL	0.6173695	0.1709503	No	Yes	No
+Northeastern Illinois University	IL	0.4357112	0.0948799	No	No	No
+Northern Illinois University	IL	0.5714776	0.0788717	No	No	No
+Northwestern University	IL	0.584053	0.0344175	No	No	Yes
+Olivet Nazarene University	IL	0.719841	0.3378629	No	Yes	No
+Quincy University	IL	0.6853337	0.1638978	No	Yes	No
+Robert Morris University Illinois	IL	0.345642	0.0833454	No	No	Yes
+Roosevelt University	IL	0.4482306	0.0648468	No	No	Yes
+Saint Xavier University	IL	0.5833292	0.1030903	No	Yes	No
+Southern Illinois University At Carbondale	IL	0.5480415	0.0974987	No	No	No
+Southern Illinois University Edwardsville	IL	0.6341088	0.1544419	No	No	No
+Trinity Christian College	IL	0.7416036	0.3489814	No	Yes	No
+Trinity International University	IL	0.749746	0.325637	No	Yes	No
+University Of Chicago	IL	0.5067728	0.029689	No	No	Yes
+University Of Saint Francis of Joliet, IL	IL	0.635445	0.1150359	No	Yes	No
+Western Illinois University	IL	0.6425227	0.1023469	No	No	No
+Anderson University of Anderson, IN	IN	0.7018836	0.3281415	No	Yes	No
+Ball State University	IN	0.6444944	0.1755599	No	No	No
+Butler University	IN	0.684854	0.1155634	No	No	Yes
+DePauw University	IN	0.6613716	0.070102	No	Yes	No
+Franklin College Of Indiana	IN	0.7185326	0.1966502	No	Yes	No
+Goshen College	IN	0.6709687	0.2151144	No	Yes	No
+Grace College And Theological Seminary	IN	0.7869131	0.4136189	No	Yes	No
+Hanover College	IN	0.71711	0.1579983	No	Yes	No
+Indiana State University	IN	0.6154897	0.1711458	No	No	No
+Manchester University	IN	0.6624753	0.2060898	No	Yes	No
+Purdue University	IN	0.6544302	0.1409414	No	No	No
+Saint Mary's College	IN	0.6848041	0.1107486	No	Yes	No
+Taylor University	IN	0.755066	0.315337	No	Yes	No
+University Of Evansville	IN	0.6763742	0.1794443	No	Yes	No
+University Of Indianapolis	IN	0.666157	0.2084241	No	Yes	No
+University Of Notre Dame	IN	0.675212	0.0650941	No	Yes	No
+University Of Saint Francis of Fort Wayne, IN	IN	0.6854762	0.2317071	No	Yes	No
+University Of Southern Indiana	IN	0.6317955	0.2084831	No	No	No
+Valparaiso University	IN	0.6873279	0.1643466	No	Yes	No
+Wabash College	IN	0.6145054	0.1237108	No	No	Yes
+Baker University	KS	0.6577953	0.1989212	No	Yes	No
+Bethany College of Lindsborg, KS	KS	0.6524422	0.189576	No	Yes	No
+Emporia State University	KS	0.6705615	0.2433577	No	No	No
+Fort Hays State University	KS	0.6786788	0.2524741	No	No	No
+Friends University	KS	0.6370423	0.2485652	No	No	Yes
+Kansas State University	KS	0.701501	0.1947612	No	No	No
+Kansas Wesleyan University	KS	0.6875607	0.207658	No	Yes	No
+McPherson College	KS	0.5230559	0.1838605	No	Yes	No
+Pittsburg State University	KS	0.6986791	0.2364469	No	No	No
+Sterling College	KS	0.6978493	0.2981321	No	Yes	No
+Tabor College	KS	0.7626431	0.3087349	No	Yes	No
+University Of Kansas	KS	0.6223517	0.0959576	No	No	No
+Wichita State University	KS	0.5902022	0.2436508	No	No	No
+Bellarmine University	KY	0.6634812	0.1508202	No	Yes	No
+Centre College Of Kentucky	KY	0.6870573	0.0891502	No	Yes	No
+Eastern Kentucky University	KY	0.6070863	0.2412854	No	No	No
+Georgetown College	KY	0.7330021	0.2004727	No	Yes	No
+Kentucky Christian University	KY	0.7613772	0.36971	No	Yes	No
+Kentucky State University	KY	0.3361657	0.0810266	Yes	No	No
+Kentucky Wesleyan College	KY	0.6519629	0.2112255	No	Yes	No
+Murray State University	KY	0.6533754	0.2401543	No	No	No
+Thomas More College	KY	0.699965	0.1514798	No	Yes	No
+University Of Kentucky	KY	0.6165166	0.1398065	No	No	No
+University Of Louisville	KY	0.5808243	0.1640359	No	No	No
+Western Kentucky University	KY	0.6276789	0.2098918	No	No	No
+Centenary College Of Louisiana	LA	0.6355274	0.1349632	No	Yes	No
+Dillard University	LA	0.2666444	0.0369861	Yes	Yes	No
+Louisiana College	LA	0.683263	0.2960325	No	Yes	No
+Louisiana State University In Shreveport	LA	0.5012802	0.2110346	No	No	No
+Louisiana Tech University	LA	0.6322817	0.2342011	No	No	No
+Loyola University New Orleans	LA	0.4958811	0.0497131	No	Yes	No
+Mcneese State University	LA	0.5658066	0.2275076	No	No	No
+Northwestern State University	LA	0.4986141	0.2209285	No	No	No
+Southeastern Louisiana University	LA	0.5215861	0.1742431	No	No	No
+Southern University And Agricultural & Mechanical Colg At Baton R	LA	0.2198708	0.0492505	Yes	No	No
+University Of Louisiana At Lafayette	LA	0.545683	0.1576653	No	No	No
+University Of New Orleans	LA	0.4470782	0.0989155	No	No	No
+Xavier University Of Louisiana	LA	0.3212782	0.0471416	Yes	Yes	No
+American International College	MA	0.4233038	0.0609884	No	No	Yes
+Amherst College	MA	0.563764	0.0153102	No	No	Yes
+Anna Maria College	MA	0.6010438	0.0678921	No	Yes	No
+Assumption College	MA	0.6687077	0.0320847	No	Yes	No
+Bay Path College	MA	0.5735032	0.1419644	No	No	Yes
+Becker College	MA	0.5013095	0.0713307	No	No	Yes
+Bentley University	MA	0.623009	0.0241153	No	No	Yes
+Boston College	MA	0.5992555	0.0161317	No	Yes	No
+Boston University	MA	0.5307422	0.0297701	No	No	Yes
+Brandeis University	MA	0.582814	0.0314266	No	No	Yes
+Bridgewater State University	MA	0.5808361	0.0571447	No	No	No
+Clark University	MA	0.5129849	0.0313769	No	No	Yes
+College Of The Holy Cross	MA	0.6438313	0.0245404	No	Yes	No
+Curry College	MA	0.4728602	0.02898	No	No	Yes
+Eastern Nazarene College	MA	0.6673857	0.1739752	No	Yes	No
+Emerson College	MA	0.440583	0.0220183	No	No	Yes
+Endicott College	MA	0.5872155	0.0471235	No	No	Yes
+Fitchburg State University	MA	0.5579309	0.0611074	No	No	No
+Gordon College	MA	0.7174374	0.2358169	No	Yes	No
+Hampshire College	MA	0.3816698	0.018887	No	No	Yes
+Lesley University	MA	0.4538073	0.0410353	No	No	Yes
+Massachusetts College Of Liberal Arts	MA	0.5176043	0.0608695	No	No	No
+Massachusetts Institute Of Technology	MA	0.5596789	0.0608726	No	No	Yes
+Merrimack College	MA	0.6175788	0.0329353	No	Yes	No
+Mount Holyoke College	MA	0.4958119	0.0370926	No	No	Yes
+Mount Ida College	MA	0.3747373	0.0440738	No	No	Yes
+Northeastern University	MA	0.542137	0.0288209	No	No	Yes
+Salem State University	MA	0.5449622	0.0515188	No	No	No
+Simmons College	MA	0.5816777	0.0660306	No	No	Yes
+Smith College	MA	0.4981377	0.0376223	No	No	Yes
+Suffolk University	MA	0.4949288	0.0318795	No	No	Yes
+Tufts University	MA	0.5877376	0.0173577	No	No	Yes
+Wellesley College	MA	0.5042297	0.0449076	No	No	Yes
+Western New England University	MA	0.6126523	0.0433215	No	No	Yes
+Westfield State University	MA	0.6050978	0.0454189	No	No	No
+Wheaton College of Norton, MA	MA	0.5423434	0.0369728	No	No	Yes
+Wheelock College	MA	0.591077	0.0777064	No	No	Yes
+Worcester State University	MA	0.5658184	0.0785902	No	No	No
+Goucher College	MD	0.5067425	0.0348962	No	No	Yes
+Johns Hopkins University	MD	0.5673066	0.0296085	No	No	Yes
+Loyola University Maryland	MD	0.6502528	0.030867	No	Yes	No
+McDaniel College	MD	0.6299918	0.0951047	No	No	Yes
+Stevenson University	MD	0.6469253	0.1171082	No	No	Yes
+Bowdoin College	ME	0.6021003	0.0198031	No	No	Yes
+Maine Maritime Academy	ME	0.6683386	0.1122226	No	No	No
+Saint Joseph's College of Standish, ME	ME	0.6093101	0.0924841	No	Yes	No
+Thomas College	ME	0.6371662	0.1361033	No	No	Yes
+Adrian College	MI	0.6520249	0.1254181	No	Yes	No
+Andrews University	MI	0.5988724	0.1718221	No	Yes	No
+Aquinas College	MI	0.6558907	0.1354048	No	Yes	No
+Central Michigan University	MI	0.6495945	0.1055972	No	No	No
+Cornerstone University	MI	0.7769402	0.3776964	No	Yes	No
+Eastern Michigan University	MI	0.542794	0.1135204	No	No	No
+Ferris State University	MI	0.5990812	0.16553	No	No	No
+Grand Valley State University	MI	0.6921148	0.1716205	No	No	No
+Hope College	MI	0.7359944	0.1926455	No	Yes	No
+Kalamazoo College	MI	0.5957845	0.0418468	No	No	Yes
+Kettering University	MI	0.6764786	0.1412977	No	No	Yes
+Lake Superior State University	MI	0.615386	0.1949958	No	No	No
+Lawrence Technological University	MI	0.5915825	0.1129093	No	No	Yes
+Michigan State University	MI	0.626847	0.0779163	No	No	No
+Michigan Technological University	MI	0.6716461	0.157227	No	No	No
+Northern Michigan University	MI	0.5978834	0.1406122	No	No	No
+Oakland University	MI	0.6002036	0.109007	No	No	No
+Olivet College	MI	0.5041801	0.1290593	No	Yes	No
+Saginaw Valley State University	MI	0.6600213	0.1545672	No	No	No
+Siena Heights University	MI	0.611654	0.1376755	No	Yes	No
+Spring Arbor University	MI	0.7254447	0.3784373	No	Yes	No
+University Of Detroit Mercy	MI	0.5227795	0.1250455	No	Yes	No
+University Of Michigan - Ann Arbor	MI	0.594337	0.054162	No	No	No
+University Of Michigan - Dearborn	MI	0.5953518	0.1141998	No	No	No
+University Of Michigan - Flint	MI	0.6205115	0.1527452	No	No	No
+Wayne State University	MI	0.4531692	0.0834218	No	No	No
+Western Michigan University	MI	0.6360919	0.1040739	No	No	No
+Bethany Lutheran College	MN	0.7055697	0.3126315	No	Yes	No
+Bethel University of Saint Paul, MN	MN	0.8000666	0.3397398	No	Yes	No
+Carleton College	MN	0.5671828	0.036986	No	No	Yes
+College Of Saint Benedict	MN	0.7472652	0.1253792	No	Yes	No
+Concordia College - Moorhead	MN	0.7249203	0.1937632	No	Yes	No
+Concordia University - Saint Paul	MN	0.6474313	0.1747566	No	Yes	No
+Gustavus Adolphus College	MN	0.7198388	0.0985651	No	Yes	No
+Hamline University	MN	0.5908613	0.0693021	No	Yes	No
+Macalester College	MN	0.5331261	0.0254278	No	Yes	No
+Saint John's University of Collegeville, MN	MN	0.7089083	0.0840223	No	Yes	No
+Saint Mary's University Of Minnesota	MN	0.6347151	0.1085143	No	Yes	No
+Saint Olaf College	MN	0.678916	0.0809998	No	Yes	No
+St. Catherine University	MN	0.6058587	0.1566997	No	Yes	No
+University Of Northwestern- St Paul	MN	0.7702262	0.3783858	No	Yes	No
+University Of Saint Thomas of Saint Paul, MN	MN	0.6819773	0.1153443	No	Yes	No
+Central Methodist University	MO	0.6621689	0.2225687	No	Yes	No
+Columbia College of Columbia, MO	MO	0.5330347	0.2588176	No	Yes	No
+Culver-Stockton College	MO	0.6689961	0.1970834	No	Yes	No
+Drury University	MO	0.6507428	0.2602398	No	No	Yes
+Evangel University	MO	0.759628	0.3942828	No	Yes	No
+Hannibal - Lagrange University	MO	0.7544492	0.3574635	No	Yes	No
+Lindenwood University	MO	0.6324974	0.1594294	No	No	Yes
+Maryville University Of Saint Louis	MO	0.7054339	0.2025878	No	No	Yes
+Missouri Baptist University	MO	0.6882909	0.2652824	No	Yes	No
+Missouri Southern State University	MO	0.6483824	0.3132494	No	No	No
+Missouri State University	MO	0.6846271	0.1938066	No	No	No
+Northwest Missouri State University	MO	0.6936258	0.2193267	No	No	No
+Park University	MO	0.5818238	0.3847263	No	No	Yes
+Rockhurst University	MO	0.6441647	0.1226521	No	Yes	No
+Saint Louis University	MO	0.6560026	0.0763366	No	Yes	No
+Southeast Missouri State University	MO	0.6536538	0.206058	No	No	No
+Southwest Baptist University	MO	0.7337441	0.4038367	No	Yes	No
+Truman State University	MO	0.7078408	0.1489911	No	No	No
+University Of Central Missouri	MO	0.6655819	0.2019759	No	No	No
+Washington University In St. Louis	MO	0.5879824	0.032395	No	No	Yes
+Webster University	MO	0.5538853	0.0989161	No	No	Yes
+William Jewell College	MO	0.7070196	0.2217385	No	Yes	No
+Jackson State University	MS	0.2097269	0.0511268	Yes	No	No
+Mississippi State University	MS	0.6441755	0.1951535	No	No	No
+University Of Mississippi	MS	0.6427775	0.1316092	No	No	No
+University Of Southern Mississippi	MS	0.5614978	0.1662463	No	No	No
+William Carey University	MS	0.5851516	0.2927594	No	Yes	No
+Montana State University - Billings	MT	0.5800034	0.2396495	No	No	No
+Montana State University - Northern	MT	0.6059626	0.2297804	No	No	No
+Montana State University Bozeman	MT	0.6261371	0.1466996	No	No	No
+Montana Tech Of The University Of Montana	MT	0.623048	0.1703814	No	No	No
+Rocky Mountain College	MT	0.6055874	0.1720898	No	Yes	No
+University Of Montana	MT	0.5555066	0.1290555	No	No	No
+Appalachian State University	NC	0.6517413	0.1428766	No	No	No
+Belmont Abbey College	NC	0.5986333	0.1396991	No	Yes	No
+Bennett College	NC	0.2075168	0.0395983	Yes	Yes	No
+Campbell University	NC	0.593508	0.2458704	No	Yes	No
+Duke University	NC	0.5974407	0.0344968	No	Yes	No
+East Carolina University	NC	0.6015963	0.1301373	No	No	No
+Elon University	NC	0.6328057	0.0497609	No	Yes	No
+Fayetteville State University	NC	0.285657	0.0992563	Yes	No	No
+Gardner - Webb University	NC	0.6801704	0.2621846	No	Yes	No
+Greensboro College	NC	0.582542	0.0828232	No	Yes	No
+High Point University	NC	0.5784855	0.0837945	No	Yes	No
+Lenoir-Rhyne University	NC	0.6538011	0.2442758	No	Yes	No
+Mars Hill University	NC	0.6019122	0.167353	No	Yes	No
+Meredith College	NC	0.7026873	0.2135523	No	No	Yes
+Methodist University	NC	0.5392347	0.1972663	No	Yes	No
+North Carolina Agricultural & Technical State University	NC	0.2856271	0.0506066	Yes	No	No
+North Carolina Central University	NC	0.2577519	0.0492558	Yes	No	No
+North Carolina State University	NC	0.6427507	0.1325283	No	No	No
+North Carolina Wesleyan College	NC	0.4314107	0.1285753	No	Yes	No
+Saint Augustine's University	NC	0.2049672	0.0309038	Yes	Yes	No
+Salem College	NC	0.55076	0.1660959	No	Yes	No
+University Of Mount Olive	NC	0.5810758	0.2777325	No	Yes	No
+University Of North Carolina  Asheville	NC	0.5561815	0.0857808	No	No	No
+University Of North Carolina - Chapel Hill	NC	0.6340535	0.0895927	No	No	No
+University Of North Carolina - Charlotte	NC	0.5957512	0.1448261	No	No	No
+University Of North Carolina - Greensboro	NC	0.567233	0.1577982	No	No	No
+University Of North Carolina At Pembroke	NC	0.4956045	0.1456643	No	No	No
+University Of North Carolina At Wilmington	NC	0.5999363	0.1163555	No	No	No
+Wake Forest University	NC	0.6553602	0.0559522	No	No	Yes
+Warren Wilson College	NC	0.4815012	0.0400029	No	Yes	No
+Western Carolina University	NC	0.6101482	0.1951248	No	No	No
+William Peace University	NC	0.6110075	0.1547814	No	Yes	No
+Wingate University	NC	0.5926415	0.1800592	No	Yes	No
+Winston-Salem State University	NC	0.2727521	0.0455067	Yes	No	No
+Minot State University	ND	0.6549304	0.2882719	No	No	No
+North Dakota State University - Main Campus - Fargo	ND	0.7094602	0.2022164	No	No	No
+University Of North Dakota	ND	0.6775266	0.1677481	No	No	No
+Valley City State University	ND	0.7234075	0.2117816	No	No	No
+Concordia University of Seward, NE	NE	0.775603	0.3433917	No	Yes	No
+Doane College	NE	0.7106973	0.1759677	No	Yes	No
+Hastings College	NE	0.7231172	0.191834	No	Yes	No
+Colby-Sawyer College	NH	0.6035318	0.0703001	No	No	Yes
+Dartmouth College	NH	0.5673988	0.0197179	No	No	Yes
+Franklin Pierce University	NH	0.5157931	0.0620479	No	No	Yes
+Keene State College	NH	0.5856941	0.0517768	No	No	No
+New England College	NH	0.5385259	0.0720921	No	No	Yes
+Plymouth State University Of The University System Of New Hampshire	NH	0.5824595	0.0503349	No	No	No
+Saint Anselm College	NH	0.6516454	0.0350168	No	Yes	No
+Southern New Hampshire University	NH	0.5597639	0.1198961	No	No	Yes
+University Of New Hampshire	NH	0.6170952	0.0558547	No	No	No
+Bloomfield College	NJ	0.2441391	0.0431854	No	Yes	No
+Caldwell College	NJ	0.528932	0.0430192	No	Yes	No
+Centenary College	NJ	0.5194921	0.049318	No	Yes	No
+College Of New Jersey	NJ	0.6276287	0.0370792	No	No	No
+College Of Saint Elizabeth	NJ	0.5102834	0.0370713	No	Yes	No
+Drew University	NJ	0.5063614	0.0285061	No	Yes	No
+Felician College	NJ	0.4222066	0.0584482	No	Yes	No
+Georgian Court University	NJ	0.5436966	0.0848448	No	Yes	No
+Kean University	NJ	0.5012032	0.0532708	No	No	No
+Monmouth University	NJ	0.569428	0.0350469	No	No	Yes
+Montclair State University	NJ	0.5216397	0.0465679	No	No	No
+New Jersey City University	NJ	0.3909699	0.0676542	No	No	No
+New Jersey Institute Of Technology	NJ	0.546632	0.0467019	No	No	No
+Princeton University	NJ	0.5935259	0.0335978	No	No	Yes
+Ramapo College Of New Jersey	NJ	0.5376273	0.0386661	No	No	No
+Richard Stockton College Of New Jersey	NJ	0.5890013	0.0615327	No	No	No
+Rider University	NJ	0.588659	0.0513898	No	No	Yes
+Rowan University	NJ	0.6055126	0.0544415	No	No	No
+Rutgers, The State University Of New Jersey	NJ	0.5466808	0.0383814	No	No	No
+Saint Peter's University	NJ	0.4411119	0.0437112	No	Yes	No
+Stevens Institute Of Technology	NJ	0.5922446	0.0364076	No	No	Yes
+William Paterson University Of New Jersey	NJ	0.5020646	0.0428462	No	No	No
+Eastern New Mexico University	NM	0.4815563	0.2220719	No	No	No
+New Mexico State University	NM	0.504265	0.1803134	No	No	No
+University Of New Mexico	NM	0.4821633	0.1319816	No	No	No
+University Of Nevada - Las Vegas	NV	0.5022212	0.1036043	No	No	No
+University Of Nevada , Reno	NV	0.5845242	0.1114646	No	No	No
+Adelphi University	NY	0.5491492	0.0752497	No	No	Yes
+Alfred University	NY	0.5951014	0.0604804	No	No	Yes
+Bard College	NY	0.37754	0.0130562	No	No	Yes
+Barnard College	NY	0.526714	0.0416341	No	No	Yes
+Binghamton University	NY	0.5597965	0.0326823	No	No	No
+Cazenovia College	NY	0.493331	0.0870898	No	No	Yes
+City College Of New York - CUNY	NY	0.382617	0.0654943	No	No	No
+Clarkson University	NY	0.6742786	0.0640203	No	No	Yes
+Colgate University	NY	0.6145724	0.0144031	No	No	Yes
+College Of New Rochelle	NY	0.2390202	0.0620946	No	No	Yes
+College Of Staten Island/CUNY	NY	0.4497189	0.0577679	No	No	No
+Columbia University In The City Of New York	NY	0.5246414	0.0311202	No	No	Yes
+Cooper Union For The Advancement Of Science & Art	NY	0.4595209	0.0490467	No	No	Yes
+Cornell University	NY	0.5818081	0.0293732	No	No	Yes
+CUNY Bernard M. Baruch College	NY	0.4653603	0.0656484	No	No	No
+CUNY Brooklyn College	NY	0.5065451	0.1167304	No	No	No
+CUNY Hunter College	NY	0.3877659	0.0580327	No	No	No
+CUNY John Jay College Of Criminal Justice	NY	0.3297839	0.0650459	No	No	No
+CUNY Lehman College	NY	0.305604	0.0824992	No	No	No
+CUNY Queens College	NY	0.5372477	0.1068743	No	No	No
+CUNY York College	NY	0.2695166	0.0721975	No	No	No
+Daemen College	NY	0.5582689	0.2883178	No	No	Yes
+D'Youville College	NY	0.6051462	0.1116706	No	No	Yes
+Fordham University	NY	0.5091996	0.0242833	No	Yes	No
+Hamilton College	NY	0.593222	0.0216618	No	No	Yes
+Hartwick College	NY	0.5604091	0.0594515	No	No	Yes
+Hofstra University	NY	0.5008736	0.0336479	No	No	Yes
+Houghton College	NY	0.737642	0.3359901	No	Yes	No
+Iona College	NY	0.5220283	0.0313952	No	Yes	No
+Ithaca College	NY	0.5756904	0.0359807	No	No	Yes
+Keuka College	NY	0.6257262	0.1243761	No	Yes	No
+Manhattanville College	NY	0.4805366	0.0308225	No	No	Yes
+Marist College	NY	0.6000956	0.0290209	No	No	Yes
+Marymount Manhattan College	NY	0.3937227	0.0327138	No	No	Yes
+Nazareth College Of Rochester	NY	0.6539449	0.0952422	No	No	Yes
+New School, The	NY	0.3732806	0.0238718	No	No	Yes
+New York University	NY	0.4669791	0.0298191	No	No	Yes
+Niagara University	NY	0.5957293	0.0909881	No	Yes	No
+Nyack College	NY	0.5837456	0.2288862	No	Yes	No
+Pace University	NY	0.5030414	0.0346947	No	No	Yes
+Rensselaer Polytechnic Institute	NY	0.5842351	0.0513697	No	No	Yes
+Roberts Wesleyan College	NY	0.7127583	0.2753153	No	Yes	No
+Rochester Institute Of Technology	NY	0.5294462	0.0594602	No	No	Yes
+Sage Colleges	NY	0.5270764	0.1634867	No	No	Yes
+Saint Francis College	NY	0.4700013	0.0337998	No	No	Yes
+Saint John Fisher College	NY	0.6152781	0.0758402	No	Yes	No
+Saint John's University of Queens, NY	NY	0.4869091	0.0413153	No	Yes	No
+Saint Joseph's College of Brooklyn, NY	NY	0.6557611	0.0657927	No	No	Yes
+Siena College	NY	0.6622518	0.0357426	No	Yes	No
+Skidmore College	NY	0.5073496	0.0215733	No	No	Yes
+St. Lawrence University	NY	0.5719557	0.036574	No	No	Yes
+State University Of New York At Albany	NY	0.5220479	0.0377991	No	No	No
+State University Of New York At Buffalo	NY	0.5672971	0.053597	No	No	No
+State University Of New York At Farmingdale	NY	0.4224098	0.0436627	No	No	No
+State University Of New York At New Paltz	NY	0.5163584	0.0414187	No	No	No
+State University Of New York At Stony Brook	NY	0.4837444	0.0358294	No	No	No
+State University Of New York College At Plattsburgh	NY	0.5658581	0.0652669	No	No	No
+State University Of New York College At Potsdam	NY	0.5857479	0.1070375	No	No	No
+SUNY At Fredonia	NY	0.6443006	0.0745637	No	No	No
+SUNY College At Brockport	NY	0.6316306	0.1000886	No	No	No
+SUNY College At Buffalo	NY	0.5381424	0.079334	No	No	No
+SUNY College At Cortland	NY	0.6433452	0.0542558	No	No	No
+SUNY College At Geneseo	NY	0.6655222	0.0499541	No	No	No
+SUNY College At Old Westbury	NY	0.3313016	0.0397888	No	No	No
+SUNY College At Oneonta	NY	0.5527638	0.0468448	No	No	No
+SUNY College At Oswego	NY	0.5764125	0.0685368	No	No	No
+SUNY College At Purchase	NY	0.382965	0.0268392	No	No	No
+SUNY Empire State College	NY	0.4738598	0.1893035	No	No	No
+SUNY Maritime College	NY	0.6116275	0.0363985	No	No	No
+Syracuse University	NY	0.5499254	0.028616	No	No	Yes
+Union College of Schenectady, NY	NY	0.6234615	0.0217407	No	No	Yes
+University Of Rochester	NY	0.5715558	0.0328613	No	No	Yes
+Utica College	NY	0.5465129	0.0947682	No	No	Yes
+Wagner College	NY	0.5643812	0.0326844	No	Yes	No
+Ashland University	OH	0.694899	0.177441	No	Yes	No
+Baldwin Wallace University	OH	0.6690905	0.0993137	No	Yes	No
+Bowling Green State University	OH	0.6492569	0.129947	No	No	No
+Capital University	OH	0.6422698	0.1717402	No	Yes	No
+Case Western Reserve University	OH	0.6221137	0.0641913	No	No	Yes
+Cedarville University	OH	0.794498	0.4144298	No	Yes	No
+Central State University	OH	0.2021327	0.0482235	Yes	No	No
+College Of Mount Saint Joseph	OH	0.6694607	0.1245241	No	Yes	No
+College Of Wooster	OH	0.6001807	0.04684	No	Yes	No
+Denison University	OH	0.5640543	0.038746	No	No	Yes
+Franciscan University Of Steubenville	OH	0.6988811	0.2664034	No	Yes	No
+Heidelberg University	OH	0.6258218	0.1394578	No	Yes	No
+Hiram College	OH	0.5919193	0.1004481	No	No	Yes
+John Carroll University	OH	0.6528844	0.0611797	No	Yes	No
+Kent State University	OH	0.5693003	0.1356191	No	No	No
+Lake Erie College	OH	0.5336325	0.1270216	No	No	Yes
+Malone University	OH	0.743538	0.3389102	No	Yes	No
+Miami University	OH	0.6543453	0.1016266	No	No	No
+Mount Vernon Nazarene University	OH	0.7550177	0.3657276	No	Yes	No
+Muskingum University	OH	0.6825941	0.1509971	No	Yes	No
+Oberlin College	OH	0.4366477	0.0249947	No	No	Yes
+Ohio Dominican University	OH	0.5957127	0.1129281	No	Yes	No
+Ohio University	OH	0.6196291	0.128008	No	No	No
+Ohio Wesleyan University	OH	0.6300402	0.0607482	No	Yes	No
+Otterbein University	OH	0.6679953	0.155073	No	Yes	No
+Tiffin University	OH	0.5426119	0.1528594	No	No	Yes
+University Of Cincinnati	OH	0.5444468	0.1218358	No	No	No
+University Of Dayton	OH	0.6924263	0.0740322	No	Yes	No
+University Of Findlay	OH	0.6436949	0.1621135	No	Yes	No
+University Of Mount Union	OH	0.6731322	0.1228646	No	Yes	No
+Walsh University	OH	0.6618389	0.168595	No	Yes	No
+Wilmington College	OH	0.6632854	0.1833375	No	Yes	No
+Wittenberg University	OH	0.6617894	0.0961834	No	Yes	No
+Xavier University	OH	0.6676426	0.0815243	No	Yes	No
+Northeastern State University	OK	0.5987294	0.2868684	No	No	No
+Northwestern Oklahoma State University	OK	0.699909	0.2875656	No	No	No
+Oklahoma State University	OK	0.6942492	0.2239075	No	No	No
+Oral Roberts University	OK	0.6576961	0.2977064	No	Yes	No
+Rogers State University	OK	0.5839964	0.3060009	No	No	No
+Southeastern Oklahoma State University	OK	0.6229299	0.3175905	No	No	No
+Southwestern Oklahoma State University	OK	0.6784763	0.3081321	No	No	No
+University Of Central Oklahoma	OK	0.6490706	0.2232728	No	No	No
+University Of Oklahoma	OK	0.6440189	0.1591194	No	No	No
+University Of Science & Arts Of Oklahoma	OK	0.5693626	0.32408	No	No	No
+University Of Tulsa	OK	0.6003439	0.1617467	No	Yes	No
+Corban University	OR	0.7735994	0.4151014	No	Yes	No
+Eastern Oregon University	OR	0.6269305	0.2558143	No	No	No
+Lewis & Clark College	OR	0.4936587	0.0369051	No	No	Yes
+Linfield College	OR	0.6615022	0.1109089	No	Yes	No
+Oregon Institute Of Technology	OR	0.6266248	0.2372146	No	No	No
+Oregon State University	OR	0.6363931	0.128839	No	No	No
+Pacific University	OR	0.6138169	0.0951907	No	Yes	No
+Portland State University	OR	0.5236212	0.1159222	No	No	No
+Southern Oregon University	OR	0.5348355	0.1347253	No	No	No
+University Of Oregon	OR	0.5563465	0.0645105	No	No	No
+University Of Portland	OR	0.661925	0.1182174	No	Yes	No
+Western Oregon University	OR	0.6789288	0.207372	No	No	No
+Willamette University	OR	0.5634584	0.0596921	No	No	Yes
+Albright College	PA	0.5995778	0.0882536	No	Yes	No
+Alvernia University	PA	0.5645269	0.1345282	No	Yes	No
+Arcadia University	PA	0.5964531	0.0579905	No	Yes	No
+Bloomsburg University Of Pennsylvania	PA	0.6583151	0.0844479	No	No	No
+Bryn Mawr College	PA	0.4742803	0.0251008	No	No	Yes
+Bucknell University	PA	0.65442	0.0371167	No	No	Yes
+Cabrini College	PA	0.5728764	0.0436442	No	Yes	No
+Cairn University	PA	0.7655852	0.3698232	No	No	Yes
+California University Of Pennsylvania	PA	0.6089301	0.1021219	No	No	No
+Carlow University	PA	0.5882592	0.1480663	No	Yes	No
+Carnegie Mellon University	PA	0.5420974	0.032774	No	No	Yes
+Chatham University	PA	0.5341072	0.1356495	No	No	Yes
+Clarion University Of Pennsylvania	PA	0.6296967	0.1415193	No	No	No
+Delaware Valley College Of Science & Agriculture	PA	0.6034599	0.0993697	No	No	Yes
+Duquesne University Of The Holy Spirit	PA	0.6534947	0.0706581	No	Yes	No
+East Stroudsburg University Of Pennsylvania	PA	0.607687	0.0732914	No	No	No
+Eastern University	PA	0.6999789	0.2118261	No	Yes	No
+Edinboro University Of Pennsylvania	PA	0.5718997	0.1175674	No	No	No
+Elizabethtown College	PA	0.7001725	0.1024644	No	Yes	No
+Gannon University	PA	0.6616687	0.120573	No	Yes	No
+Geneva College	PA	0.7495326	0.3520625	No	Yes	No
+Gettysburg College	PA	0.6413087	0.0361064	No	Yes	No
+Gwynedd Mercy University	PA	0.6238828	0.0870986	No	Yes	No
+Haverford College	PA	0.5523292	0.0180606	No	No	Yes
+Holy Family University	PA	0.6158803	0.077547	No	Yes	No
+Immaculata University	PA	0.6120182	0.0606627	No	Yes	No
+Indiana University Of Pennsylvania	PA	0.5803946	0.1002967	No	No	No
+Juniata College	PA	0.6980377	0.0954825	No	No	Yes
+Keystone College	PA	0.4766701	0.1055868	No	No	Yes
+King's College of Wilkes-Barre, PA	PA	0.6752776	0.0795632	No	Yes	No
+Kutztown University Of Pennsylvania	PA	0.6179988	0.0850983	No	No	No
+La Roche College	PA	0.5705165	0.0996023	No	Yes	No
+La Salle University	PA	0.6121866	0.0431503	No	Yes	No
+Lafayette College	PA	0.6438233	0.0239076	No	Yes	No
+Lebanon Valley College	PA	0.7036436	0.1332591	No	Yes	No
+Lehigh University	PA	0.6294088	0.0265907	No	No	Yes
+Lincoln University of Lincoln University, PA	PA	0.1934371	0.0228881	Yes	No	No
+Lock Haven University Of Pennsylvania	PA	0.6405969	0.1234088	No	No	No
+Lycoming College	PA	0.6374384	0.0904825	No	Yes	No
+Mansfield University Of Pennsylvania	PA	0.6007829	0.1732379	No	No	No
+Marywood University	PA	0.6112406	0.0677978	No	Yes	No
+Millersville University Of Pennsylvania	PA	0.6387708	0.1364264	No	No	No
+Misericordia  University	PA	0.649388	0.0838332	No	Yes	No
+Muhlenberg College	PA	0.6563371	0.0252374	No	Yes	No
+Neumann University	PA	0.5175663	0.0535952	No	Yes	No
+Pennsylvania State University	PA	0.599442	0.0773491	No	No	No
+Philadelphia University	PA	0.5597953	0.0489706	No	No	Yes
+Point Park University	PA	0.5006763	0.0668114	No	No	Yes
+Saint Francis University	PA	0.6892207	0.1270254	No	Yes	No
+Saint Joseph's University	PA	0.6377097	0.0211264	No	Yes	No
+Saint Vincent College & Seminary	PA	0.6538175	0.0986803	No	Yes	No
+Seton Hill University	PA	0.549154	0.1212862	No	Yes	No
+Shippensburg University Of Pennsylvania	PA	0.6763544	0.1263803	No	No	No
+Slippery Rock University	PA	0.648365	0.1090296	No	No	No
+Susquehanna University	PA	0.6547388	0.0667185	No	Yes	No
+Swarthmore College	PA	0.5109957	0.0166977	No	No	Yes
+Temple University	PA	0.47648	0.0444558	No	No	No
+Thiel College	PA	0.5940863	0.1148608	No	Yes	No
+University Of Pennsylvania	PA	0.5855687	0.0285421	No	No	Yes
+University Of Scranton	PA	0.6601757	0.032901	No	Yes	No
+Ursinus College	PA	0.6200464	0.0461302	No	No	Yes
+Villanova University	PA	0.6368048	0.0279925	No	Yes	No
+Waynesburg University	PA	0.6500338	0.2058685	No	Yes	No
+West Chester University Of Pennsylvania	PA	0.6053972	0.0646959	No	No	No
+Widener University	PA	0.5949363	0.0569047	No	No	Yes
+Wilkes University	PA	0.5992317	0.0710385	No	No	Yes
+Brown University	RI	0.5259068	0.0195836	No	No	Yes
+Johnson & Wales University	RI	0.4123253	0.0785459	No	No	Yes
+Providence College	RI	0.6592214	0.0299006	No	Yes	No
+Rhode Island College	RI	0.5439129	0.0858678	No	No	No
+Roger Williams University	RI	0.5633702	0.0254931	No	No	Yes
+Salve Regina University	RI	0.5828027	0.0493929	No	Yes	No
+University Of Rhode Island	RI	0.5799571	0.0438078	No	No	No
+Anderson University of Anderson, SC	SC	0.6847818	0.3120674	No	Yes	No
+Citadel, The Military College Of South Carolina	SC	0.6666782	0.1846155	No	No	No
+Coastal Carolina University	SC	0.5388021	0.0870511	No	No	No
+College Of Charleston	SC	0.5645767	0.0840401	No	No	No
+Columbia College of Columbia, SC	SC	0.4965822	0.1945763	No	Yes	No
+Converse College	SC	0.6597829	0.2159215	No	No	Yes
+Francis Marion University	SC	0.5010003	0.1301907	No	No	No
+Furman University	SC	0.69237	0.1122328	No	No	Yes
+Lander University	SC	0.5987284	0.1850325	No	No	No
+Limestone College	SC	0.5184863	0.1298862	No	No	Yes
+Newberry College	SC	0.5931069	0.1278088	No	Yes	No
+South Carolina State University	SC	0.2574805	0.0484145	Yes	No	No
+Winthrop University	SC	0.590862	0.1552795	No	No	No
+Augustana College of Sioux Falls, SD	SD	0.7593304	0.1838293	No	Yes	No
+Austin Peay State University	TN	0.5683951	0.2548658	No	No	No
+Belmont University	TN	0.6443571	0.1767409	No	Yes	No
+Bryan College	TN	0.7097871	0.3633726	No	Yes	No
+Carson - Newman University	TN	0.7082045	0.2996008	No	Yes	No
+Christian Brothers University	TN	0.5766041	0.1157066	No	Yes	No
+Cumberland University	TN	0.6221273	0.2376846	No	No	Yes
+East Tennessee State University	TN	0.6012226	0.2263798	No	No	No
+Freed Hardeman University	TN	0.758617	0.4001721	No	Yes	No
+King University	TN	0.6963794	0.2704633	No	Yes	No
+Lipscomb University	TN	0.7108764	0.2708742	No	Yes	No
+Maryville College	TN	0.6613159	0.1907895	No	Yes	No
+Middle Tennessee State University	TN	0.5945481	0.1801319	No	No	No
+Milligan College	TN	0.7635773	0.3421783	No	Yes	No
+Rhodes College	TN	0.6277133	0.0636045	No	Yes	No
+Tennessee State University	TN	0.2869604	0.0657019	Yes	No	No
+Tennessee Technological University	TN	0.6793062	0.2832073	No	No	No
+Tennessee Wesleyan College	TN	0.6891158	0.2814701	No	Yes	No
+Trevecca Nazarene University	TN	0.7213485	0.3604757	No	Yes	No
+University Of Memphis	TN	0.4853655	0.1499052	No	No	No
+Vanderbilt University	TN	0.6357503	0.0548547	No	No	Yes
+Abilene Christian University	TX	0.7161154	0.3176171	No	Yes	No
+Angelo State University	TX	0.639018	0.2368904	No	No	No
+Austin College	TX	0.6175508	0.0824532	No	Yes	No
+Baylor University	TX	0.691659	0.1831577	No	Yes	No
+Dallas Baptist University	TX	0.7415299	0.3891601	No	Yes	No
+East Texas Baptist University	TX	0.7076045	0.3360713	No	Yes	No
+Hardin-Simmons University	TX	0.750442	0.3194721	No	Yes	No
+Houston Baptist University	TX	0.6083586	0.1797383	No	Yes	No
+Howard Payne University	TX	0.6514179	0.3382756	No	Yes	No
+Lamar University	TX	0.5582104	0.1679612	No	No	No
+Letourneau University	TX	0.7216702	0.3698984	No	Yes	No
+McMurry University	TX	0.678319	0.2377591	No	Yes	No
+Midwestern State University	TX	0.614606	0.2322375	No	No	No
+Prairie View Agricultural & Mechanical University	TX	0.2188531	0.0539515	Yes	No	No
+Rice University	TX	0.5976022	0.0559601	No	No	Yes
+Saint Mary's University	TX	0.5656691	0.1117359	No	Yes	No
+Sam Houston State University	TX	0.5965164	0.1819033	No	No	No
+Schreiner University	TX	0.5862577	0.1667044	No	Yes	No
+Southern Methodist University	TX	0.5903602	0.0627282	No	Yes	No
+Southwestern University	TX	0.6425142	0.0937481	No	Yes	No
+St. Edward's University	TX	0.4988957	0.0661992	No	Yes	No
+Stephen F Austin State University	TX	0.5987303	0.1716676	No	No	No
+Tarleton State University	TX	0.689669	0.2681466	No	No	No
+Texas A&M International University	TX	0.4793567	0.1590185	No	No	No
+Texas A&M University	TX	0.7279246	0.1871801	No	No	No
+Texas A&M University - Commerce	TX	0.6002898	0.220215	No	No	No
+Texas A&M University - Kingsville	TX	0.4961665	0.1673959	No	No	No
+Texas Christian University	TX	0.6802874	0.1273403	No	Yes	No
+Texas State University	TX	0.6084316	0.1240114	No	No	No
+Texas Tech University	TX	0.6657124	0.1599349	No	No	No
+Texas Woman's University	TX	0.5593179	0.1958534	No	No	No
+Trinity University	TX	0.625015	0.0751748	No	Yes	No
+University Of Dallas	TX	0.6412553	0.1927094	No	Yes	No
+University Of Mary Hardin-Baylor	TX	0.6824993	0.2901911	No	Yes	No
+University Of North Texas	TX	0.5630237	0.1445553	No	No	No
+University Of Saint Thomas of Houston, TX	TX	0.5363854	0.1185825	No	Yes	No
+University Of Texas At Arlington	TX	0.573244	0.1395118	No	No	No
+University Of Texas At Austin	TX	0.5934076	0.07569	No	No	No
+University Of Texas At Dallas	TX	0.5799114	0.1154233	No	No	No
+University Of Texas At San Antonio	TX	0.5360901	0.1140366	No	No	No
+University Of Texas At Tyler	TX	0.701519	0.2682255	No	No	No
+University Of Texas Of The Permian Basin	TX	0.6163004	0.2625206	No	No	No
+University Of The Incarnate Word	TX	0.4992946	0.1293405	No	Yes	No
+West Texas A&M University	TX	0.6694077	0.2799439	No	No	No
+Brigham Young University	UT	0.8447853	0.531517	No	Yes	No
+Southern Utah University	UT	0.7775574	0.4692234	No	No	No
+University Of Utah	UT	0.6897498	0.2567318	No	No	No
+Utah State University	UT	0.7995444	0.4954697	No	No	No
+Bridgewater College	VA	0.6563867	0.1817793	No	Yes	No
+Christopher Newport University	VA	0.6108935	0.1292377	No	No	No
+College Of William & Mary	VA	0.6113193	0.067199	No	No	No
+Emory & Henry College	VA	0.6774235	0.1735732	No	Yes	No
+Ferrum College	VA	0.5441496	0.1229734	No	Yes	No
+George Mason University	VA	0.5438219	0.0952318	No	No	No
+Hollins University	VA	0.5367816	0.0789356	No	No	Yes
+James Madison University	VA	0.6635696	0.0833869	No	No	No
+Longwood University	VA	0.6722651	0.1497967	No	No	No
+Marymount University	VA	0.5394197	0.0891677	No	Yes	No
+Norfolk State University	VA	0.2404012	0.0670873	Yes	No	No
+Old Dominion University	VA	0.5365112	0.1260417	No	No	No
+Radford University	VA	0.6337585	0.1367017	No	No	No
+Roanoke College	VA	0.6222165	0.0881298	No	Yes	No
+University Of Mary Washington	VA	0.6597736	0.0833365	No	No	No
+University Of Richmond	VA	0.6673161	0.0389156	No	No	Yes
+University Of Virginia	VA	0.6269525	0.06545	No	No	No
+Virginia Commonwealth University	VA	0.5137306	0.07916	No	No	No
+Virginia Military Institute	VA	0.6791099	0.1660223	No	No	No
+Virginia Polytechnic Institute & State University	VA	0.653406	0.0959491	No	No	No
+Virginia State University	VA	0.2515137	0.0447504	Yes	No	No
+Virginia Wesleyan College	VA	0.558947	0.1391007	No	Yes	No
+Champlain College	VT	0.5524005	0.0337783	No	No	Yes
+Green Mountain College	VT	0.4535823	0.0689124	No	Yes	No
+Middlebury College	VT	0.6040722	0.0196234	No	No	Yes
+Norwich University	VT	0.6169114	0.1497692	No	No	Yes
+Saint Michael's College	VT	0.6213627	0.0369174	No	Yes	No
+University Of Vermont And State Agricultural College	VT	0.5597692	0.035787	No	No	No
+Central Washington University	WA	0.6339781	0.1678095	No	No	No
+Eastern Washington University	WA	0.6478098	0.2037667	No	No	No
+Evergreen State College	WA	0.3938413	0.0585595	No	No	No
+Gonzaga University	WA	0.6431898	0.0840537	No	Yes	No
+Pacific Lutheran University	WA	0.6490607	0.1575065	No	Yes	No
+Saint Martin's University	WA	0.6350251	0.1776107	No	Yes	No
+Seattle Pacific University	WA	0.7283602	0.2422009	No	Yes	No
+Seattle University	WA	0.5620159	0.069868	No	Yes	No
+University Of Puget Sound	WA	0.5674179	0.0303332	No	No	Yes
+University Of Washington - Seattle	WA	0.5763276	0.080829	No	No	No
+Washington State University	WA	0.6444309	0.1373456	No	No	No
+Western Washington University	WA	0.6120563	0.0947069	No	No	No
+Whitman College	WA	0.5776145	0.0285405	No	No	Yes
+Whitworth University	WA	0.7470763	0.2283167	No	Yes	No
+Alverno College	WI	0.439719	0.1409872	No	Yes	No
+Beloit College	WI	0.4777014	0.0348932	No	No	Yes
+Cardinal Stritch University	WI	0.5555649	0.1476263	No	Yes	No
+Carroll University	WI	0.6736003	0.1462728	No	Yes	No
+Concordia University - Wisconsin	WI	0.6993396	0.2223414	No	Yes	No
+Edgewood College	WI	0.6704178	0.1232802	No	Yes	No
+Lakeland College	WI	0.561192	0.154508	No	Yes	No
+Lawrence University Of Wisconsin	WI	0.5880564	0.0482078	No	No	Yes
+Marian University of Fond Du Lac, WI	WI	0.6373376	0.1672219	No	Yes	No
+Marquette University	WI	0.6699526	0.0643159	No	Yes	No
+Milwaukee School Of Engineering	WI	0.6481741	0.1287406	No	No	Yes
+Mount Mary University	WI	0.506893	0.1470221	No	Yes	No
+Ripon College	WI	0.6713033	0.1015087	No	No	Yes
+Saint Norbert College	WI	0.6810439	0.109779	No	Yes	No
+Viterbo University	WI	0.6427622	0.1916541	No	Yes	No
+Wisconsin Lutheran College	WI	0.7523801	0.2756426	No	Yes	No
+Alderson Broaddus University	WV	0.6576848	0.2471109	No	Yes	No
+Bluefield State College	WV	0.5438896	0.3163628	Yes	No	No
+Davis & Elkins College	WV	0.5737116	0.1857285	No	Yes	No
+Marshall University	WV	0.5777668	0.2049611	No	No	No
+Shepherd University	WV	0.5786696	0.1634288	No	No	No
+West Liberty University	WV	0.6098391	0.1670168	No	No	No
+Wheeling Jesuit University	WV	0.627365	0.1454009	No	Yes	No
+University Of Wyoming	WY	0.6710266	0.2071712	No	No	No
